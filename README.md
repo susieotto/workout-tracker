@@ -13,7 +13,7 @@
 
 ## Link to the running application
 
-<#>
+<https://sotto-workout-tracker.herokuapp.com/>
 
 ## Description
 
